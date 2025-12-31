@@ -1,5 +1,5 @@
 # List of Experiments
-Experiment 1: Image / Video Reading and Display
+# Experiment 1: Image / Video Reading and Display
  
   Image acquisition in multiple modes
  
@@ -7,7 +7,7 @@ Experiment 1: Image / Video Reading and Display
  
   Displaying and storing video streams
 
-Experiment 2: Image Transformations
+# Experiment 2: Image Transformations
 
   Scaling
  
@@ -17,7 +17,7 @@ Experiment 2: Image Transformations
  
   Visualization of original vs transformed images
 
-Experiment 3: Histogram Analysis
+# Experiment 3: Histogram Analysis
 
   Histogram computation
  
@@ -25,13 +25,13 @@ Experiment 3: Histogram Analysis
  
   Histogram equalization on grayscale images
 
-Experiment 4: Edge Detection
+# Experiment 4: Edge Detection
 
   Edge detection using Canny algorithm
  
   Performance analysis on different images
 
-Experiment 5: Image Enhancement
+# Experiment 5: Image Enhancement
  
   Image smoothing (blurring)
  
@@ -39,7 +39,7 @@ Experiment 5: Image Enhancement
  
   Spatial domain filtering techniques
 
-Experiment 6: Convolution, Filtering, and Motion Blur
+# Experiment 6: Convolution, Filtering, and Motion Blur
  
   Convolution-based filtering
  
@@ -47,7 +47,7 @@ Experiment 6: Convolution, Filtering, and Motion Blur
  
   Simulation of motion blur effects
 
-Experiment 7: Corner Detection
+# Experiment 7: Corner Detection
 
   Harris Corner Detection
  
@@ -55,13 +55,13 @@ Experiment 7: Corner Detection
  
   Comparison of methods
 
-Experiment 8: Texture Segmentation using Gabor Filters
+# Experiment 8: Texture Segmentation using Gabor Filters
 
   Gabor filter bank implementation
  
   Texture analysis and segmentation
 
-Experiment 9: Image Segmentation
+# Experiment 9: Image Segmentation
 
   Classical methods:
 
@@ -73,7 +73,7 @@ Experiment 9: Image Segmentation
  
   Performance comparison on natural images
 
-Experiment 10: Object Detection
+# Experiment 10: Object Detection
 
   Traditional computer vision methods
  
